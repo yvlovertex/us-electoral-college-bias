@@ -1,20 +1,21 @@
 # Python / Virtual Environment
 venv/
 .venv/
+env/
 __pycache__/
 *.py[cod]
 *$py.class
 .pytest_cache/
 
-# Data files (Empêche d'envoyer des gros datasets bruts)
-data/raw/*
-!data/raw/.gitkeep
-data/processed/*
-!data/processed/.gitkeep
+# OS Specific
+.DS_Store
+Thumbs.db
 
-# IDEs
+# IDEs & Editors
 .vscode/
 .idea/
+*.swp
+*.swo
 
-# Streamlit
-.streamlit/
+# Streamlit local config
+.streamlit/config.toml
