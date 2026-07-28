@@ -1,0 +1,1139 @@
+state,category,group,cvap
+Alabama,Gender,Male,1775740
+Alabama,Gender,Female,1885580
+Alabama,Race,White,2123566
+Alabama,Race,Hispanic,219679
+Alabama,Race,Black,1171622
+Alabama,Race,Asian,146452
+Alaska,Gender,Male,288617
+Alaska,Gender,Female,266415
+Alaska,Race,White,360771
+Alaska,Race,Hispanic,77704
+Alaska,Race,Black,72154
+Alaska,Race,Asian,44402
+Arizona,Gender,Male,2414753
+Arizona,Gender,Female,2564119
+Arizona,Race,White,1991549
+Arizona,Race,Hispanic,1742605
+Arizona,Race,Black,597464
+Arizona,Race,Asian,647253
+Arkansas,Gender,Male,1087306
+Arkansas,Gender,Female,1154562
+Arkansas,Race,White,1457214
+Arkansas,Race,Hispanic,313861
+Arkansas,Race,Black,291442
+Arkansas,Race,Asian,179349
+California,Gender,Male,14006754
+California,Gender,Female,14873152
+California,Race,White,11551962
+California,Race,Hispanic,10107967
+California,Race,Black,3465588
+California,Race,Asian,3754387
+Colorado,Gender,Male,1912834
+Colorado,Gender,Female,2031153
+Colorado,Race,White,2563592
+Colorado,Race,Hispanic,552158
+Colorado,Race,Black,512718
+Colorado,Race,Asian,315519
+Connecticut,Gender,Male,1323924
+Connecticut,Gender,Female,1405816
+Connecticut,Race,White,1774331
+Connecticut,Race,Hispanic,382163
+Connecticut,Race,Black,354866
+Connecticut,Race,Asian,218379
+Delaware,Gender,Male,338025
+Delaware,Gender,Female,358934
+Delaware,Race,White,453024
+Delaware,Race,Hispanic,97574
+Delaware,Race,Black,90604
+Delaware,Race,Asian,55756
+District of Columbia,Gender,Male,233480
+District of Columbia,Gender,Female,247923
+District of Columbia,Race,White,312912
+District of Columbia,Race,Hispanic,67396
+District of Columbia,Race,Black,62582
+District of Columbia,Race,Asian,38512
+Florida,Gender,Male,7121627
+Florida,Gender,Female,7562141
+Florida,Race,White,5873507
+Florida,Race,Hispanic,5139319
+Florida,Race,Black,1762052
+Florida,Race,Asian,1908889
+Georgia,Gender,Male,3654906
+Georgia,Gender,Female,3880983
+Georgia,Race,White,4370816
+Georgia,Race,Hispanic,452153
+Georgia,Race,Black,2411484
+Georgia,Race,Asian,301435
+Hawaii,Gender,Male,512386
+Hawaii,Gender,Female,544081
+Hawaii,Race,White,686704
+Hawaii,Race,Hispanic,147905
+Hawaii,Race,Black,137340
+Hawaii,Race,Asian,84517
+Idaho,Gender,Male,588134
+Idaho,Gender,Female,624513
+Idaho,Race,White,788221
+Idaho,Race,Hispanic,169770
+Idaho,Race,Black,157644
+Idaho,Race,Asian,97011
+Illinois,Gender,Male,4743215
+Illinois,Gender,Female,5036609
+Illinois,Race,White,5085509
+Illinois,Race,Hispanic,1760368
+Illinois,Race,Black,1760368
+Illinois,Race,Asian,1173579
+Indiana,Gender,Male,2409826
+Indiana,Gender,Female,2558887
+Indiana,Race,White,3229664
+Indiana,Race,Hispanic,695619
+Indiana,Race,Black,645932
+Indiana,Race,Asian,397497
+Iowa,Gender,Male,1133459
+Iowa,Gender,Female,1203569
+Iowa,Race,White,2079955
+Iowa,Race,Hispanic,93481
+Iowa,Race,Black,70110
+Iowa,Race,Asian,93481
+Kansas,Gender,Male,1063557
+Kansas,Gender,Female,1129344
+Kansas,Race,White,1425386
+Kansas,Race,Hispanic,307006
+Kansas,Race,Black,285077
+Kansas,Race,Asian,175432
+Kentucky,Gender,Male,1614368
+Kentucky,Gender,Female,1714225
+Kentucky,Race,White,2163586
+Kentucky,Race,Hispanic,466003
+Kentucky,Race,Black,432717
+Kentucky,Race,Asian,266287
+Louisiana,Gender,Male,1696346
+Louisiana,Gender,Female,1801274
+Louisiana,Race,White,2028620
+Louisiana,Race,Hispanic,209857
+Louisiana,Race,Black,1119238
+Louisiana,Race,Asian,139904
+Maine,Gender,Male,489685
+Maine,Gender,Female,519974
+Maine,Race,White,898597
+Maine,Race,Hispanic,40386
+Maine,Race,Black,30289
+Maine,Race,Asian,40386
+Maryland,Gender,Male,2169162
+Maryland,Gender,Female,2303336
+Maryland,Race,White,2325699
+Maryland,Race,Hispanic,805049
+Maryland,Race,Black,805049
+Maryland,Race,Asian,536699
+Massachusetts,Gender,Male,2449458
+Massachusetts,Gender,Female,2600971
+Massachusetts,Race,White,3282779
+Massachusetts,Race,Hispanic,707060
+Massachusetts,Race,Black,656555
+Massachusetts,Race,Asian,404034
+Michigan,Gender,Male,3642696
+Michigan,Gender,Female,3868017
+Michigan,Race,White,4881964
+Michigan,Race,Hispanic,1051499
+Michigan,Race,Black,976392
+Michigan,Race,Asian,600857
+Minnesota,Gender,Male,1982937
+Minnesota,Gender,Female,2105592
+Minnesota,Race,White,2657544
+Minnesota,Race,Hispanic,572394
+Minnesota,Race,Black,531508
+Minnesota,Race,Asian,327082
+Mississippi,Gender,Male,1100805
+Mississippi,Gender,Female,1168896
+Mississippi,Race,White,1316427
+Mississippi,Race,Hispanic,136182
+Mississippi,Race,Black,726304
+Mississippi,Race,Asian,90788
+Missouri,Gender,Male,2220638
+Missouri,Gender,Female,2357997
+Missouri,Race,White,2976113
+Missouri,Race,Hispanic,641009
+Missouri,Race,Black,595222
+Missouri,Race,Asian,366290
+Montana,Gender,Male,397371
+Montana,Gender,Female,366804
+Montana,Race,White,680115
+Montana,Race,Hispanic,30567
+Montana,Race,Black,22925
+Montana,Race,Asian,30567
+Nebraska,Gender,Male,683882
+Nebraska,Gender,Female,726183
+Nebraska,Race,White,916542
+Nebraska,Race,Hispanic,197409
+Nebraska,Race,Black,183308
+Nebraska,Race,Asian,112805
+Nevada,Gender,Male,1015254
+Nevada,Gender,Female,1078054
+Nevada,Race,White,837323
+Nevada,Race,Hispanic,732658
+Nevada,Race,Black,251197
+Nevada,Race,Asian,272130
+New Hampshire,Gender,Male,487147
+New Hampshire,Gender,Female,517280
+New Hampshire,Race,White,652878
+New Hampshire,Race,Hispanic,140619
+New Hampshire,Race,Black,130575
+New Hampshire,Race,Asian,80354
+New Jersey,Gender,Male,3268652
+New Jersey,Gender,Female,3470836
+New Jersey,Race,White,3504534
+New Jersey,Race,Hispanic,1213108
+New Jersey,Race,Black,1213108
+New Jersey,Race,Asian,808738
+New Mexico,Gender,Male,767992
+New Mexico,Gender,Female,815497
+New Mexico,Race,White,633396
+New Mexico,Race,Hispanic,554221
+New Mexico,Race,Black,190018
+New Mexico,Race,Asian,205853
+New York,Gender,Male,7215759
+New York,Gender,Female,7662095
+New York,Race,White,7736484
+New York,Race,Hispanic,2678013
+New York,Race,Black,2678013
+New York,Race,Asian,1785342
+North Carolina,Gender,Male,3593246
+North Carolina,Gender,Female,3815509
+North Carolina,Race,White,4297078
+North Carolina,Race,Hispanic,444525
+North Carolina,Race,Black,2370801
+North Carolina,Race,Asian,296350
+North Dakota,Gender,Male,277171
+North Dakota,Gender,Female,255850
+North Dakota,Race,White,474389
+North Dakota,Race,Hispanic,21320
+North Dakota,Race,Black,15990
+North Dakota,Race,Asian,21320
+Ohio,Gender,Male,4258446
+Ohio,Gender,Female,4521856
+Ohio,Race,White,5707196
+Ohio,Race,Hispanic,1229242
+Ohio,Race,Black,1141439
+Ohio,Race,Asian,702424
+Oklahoma,Gender,Male,1406496
+Oklahoma,Gender,Female,1493495
+Oklahoma,Race,White,1884994
+Oklahoma,Race,Hispanic,405998
+Oklahoma,Race,Black,376998
+Oklahoma,Race,Asian,231999
+Oregon,Gender,Male,1437466
+Oregon,Gender,Female,1526381
+Oregon,Race,White,1926501
+Oregon,Race,Hispanic,414938
+Oregon,Race,Black,385300
+Oregon,Race,Asian,237107
+Pennsylvania,Gender,Male,4704985
+Pennsylvania,Gender,Female,4996015
+Pennsylvania,Race,White,6305650
+Pennsylvania,Race,Hispanic,1358140
+Pennsylvania,Race,Black,1261130
+Pennsylvania,Race,Asian,776080
+Rhode Island,Gender,Male,387142
+Rhode Island,Gender,Female,411088
+Rhode Island,Race,White,518850
+Rhode Island,Race,Hispanic,111752
+Rhode Island,Race,Black,103770
+Rhode Island,Race,Asian,63858
+South Carolina,Gender,Male,1741051
+South Carolina,Gender,Female,1848744
+South Carolina,Race,White,2082081
+South Carolina,Race,Hispanic,215387
+South Carolina,Race,Black,1148734
+South Carolina,Race,Asian,143591
+South Dakota,Gender,Male,307429
+South Dakota,Gender,Female,326445
+South Dakota,Race,White,564148
+South Dakota,Race,Hispanic,25355
+South Dakota,Race,Black,19016
+South Dakota,Race,Asian,25355
+Tennessee,Gender,Male,2379280
+Tennessee,Gender,Female,2526453
+Tennessee,Race,White,3188727
+Tennessee,Race,Hispanic,686802
+Tennessee,Race,Black,637745
+Tennessee,Race,Asian,392458
+Texas,Gender,Male,9606008
+Texas,Gender,Female,10200195
+Texas,Race,White,7922481
+Texas,Race,Hispanic,6932171
+Texas,Race,Black,2376744
+Texas,Race,Asian,2574806
+Utah,Gender,Male,1052304
+Utah,Gender,Female,1117396
+Utah,Race,White,1410305
+Utah,Race,Hispanic,303758
+Utah,Race,Black,282061
+Utah,Race,Asian,173576
+Vermont,Gender,Male,230726
+Vermont,Gender,Female,244997
+Vermont,Race,White,423394
+Vermont,Race,Hispanic,19028
+Vermont,Race,Black,14271
+Vermont,Race,Asian,19028
+Virginia,Gender,Male,3017590
+Virginia,Gender,Female,3204246
+Virginia,Race,White,4044194
+Virginia,Race,Hispanic,871057
+Virginia,Race,Black,808838
+Virginia,Race,Asian,497746
+Washington,Gender,Male,2541613
+Washington,Gender,Female,2698827
+Washington,Race,White,3406286
+Washington,Race,Hispanic,733661
+Washington,Race,Black,681257
+Washington,Race,Asian,419235
+West Virginia,Gender,Male,684371
+West Virginia,Gender,Female,726704
+West Virginia,Race,White,1255857
+West Virginia,Race,Hispanic,56443
+West Virginia,Race,Black,42332
+West Virginia,Race,Asian,56443
+Wisconsin,Gender,Male,2110070
+Wisconsin,Gender,Female,2240590
+Wisconsin,Race,White,2827929
+Wisconsin,Race,Hispanic,609092
+Wisconsin,Race,Black,565585
+Wisconsin,Race,Asian,348052
+Wyoming,Gender,Male,227882
+Wyoming,Gender,Female,210352
+Wyoming,Race,White,390029
+Wyoming,Race,Hispanic,17529
+Wyoming,Race,Black,13147
+Wyoming,Race,Asian,17529
+Alabama,Income,"Less than $10,000",131977
+Alabama,Income,"$10,000 to $14,999",96912
+Alabama,Income,"$15,000 to $19,999",73431
+Alabama,Income,"$20,000 to $24,999",87301
+Alabama,Income,"$25,000 to $29,999",82023
+Alabama,Income,"$30,000 to $34,999",80864
+Alabama,Income,"$35,000 to $39,999",73188
+Alabama,Income,"$40,000 to $44,999",82889
+Alabama,Income,"$45,000 to $49,999",75180
+Alabama,Income,"$50,000 to $59,999",147044
+Alabama,Income,"$60,000 to $74,999",199321
+Alabama,Income,"$75,000 to $99,999",274048
+Alabama,Income,"$100,000 to $124,999",195925
+Alabama,Income,"$125,000 to $149,999",133757
+Alabama,Income,"$150,000 to $199,999",154519
+Alabama,Income,"$200,000 or more",171149
+Alaska,Income,"Less than $10,000",10025
+Alaska,Income,"$10,000 to $14,999",5379
+Alaska,Income,"$15,000 to $19,999",6297
+Alaska,Income,"$20,000 to $24,999",7995
+Alaska,Income,"$25,000 to $29,999",6198
+Alaska,Income,"$30,000 to $34,999",7293
+Alaska,Income,"$35,000 to $39,999",7611
+Alaska,Income,"$40,000 to $44,999",7762
+Alaska,Income,"$45,000 to $49,999",8869
+Alaska,Income,"$50,000 to $59,999",16678
+Alaska,Income,"$60,000 to $74,999",23442
+Alaska,Income,"$75,000 to $99,999",35124
+Alaska,Income,"$100,000 to $124,999",34595
+Alaska,Income,"$125,000 to $149,999",21965
+Alaska,Income,"$150,000 to $199,999",34918
+Alaska,Income,"$200,000 or more",39894
+Arizona,Income,"Less than $10,000",146463
+Arizona,Income,"$10,000 to $14,999",74544
+Arizona,Income,"$15,000 to $19,999",70458
+Arizona,Income,"$20,000 to $24,999",95820
+Arizona,Income,"$25,000 to $29,999",85596
+Arizona,Income,"$30,000 to $34,999",96185
+Arizona,Income,"$35,000 to $39,999",99837
+Arizona,Income,"$40,000 to $44,999",108405
+Arizona,Income,"$45,000 to $49,999",100676
+Arizona,Income,"$50,000 to $59,999",200304
+Arizona,Income,"$60,000 to $74,999",287830
+Arizona,Income,"$75,000 to $99,999",415849
+Arizona,Income,"$100,000 to $124,999",326132
+Arizona,Income,"$125,000 to $149,999",219296
+Arizona,Income,"$150,000 to $199,999",291012
+Arizona,Income,"$200,000 or more",364068
+Arkansas,Income,"Less than $10,000",75258
+Arkansas,Income,"$10,000 to $14,999",57892
+Arkansas,Income,"$15,000 to $19,999",51616
+Arkansas,Income,"$20,000 to $24,999",50924
+Arkansas,Income,"$25,000 to $29,999",51537
+Arkansas,Income,"$30,000 to $34,999",60081
+Arkansas,Income,"$35,000 to $39,999",53636
+Arkansas,Income,"$40,000 to $44,999",54870
+Arkansas,Income,"$45,000 to $49,999",50639
+Arkansas,Income,"$50,000 to $59,999",93611
+Arkansas,Income,"$60,000 to $74,999",125739
+Arkansas,Income,"$75,000 to $99,999",159514
+Arkansas,Income,"$100,000 to $124,999",119149
+Arkansas,Income,"$125,000 to $149,999",77984
+Arkansas,Income,"$150,000 to $199,999",82479
+Arkansas,Income,"$200,000 or more",81825
+California,Income,"Less than $10,000",629604
+California,Income,"$10,000 to $14,999",407084
+California,Income,"$15,000 to $19,999",311137
+California,Income,"$20,000 to $24,999",373656
+California,Income,"$25,000 to $29,999",325675
+California,Income,"$30,000 to $34,999",357076
+California,Income,"$35,000 to $39,999",360967
+California,Income,"$40,000 to $44,999",386191
+California,Income,"$45,000 to $49,999",348269
+California,Income,"$50,000 to $59,999",713312
+California,Income,"$60,000 to $74,999",1099808
+California,Income,"$75,000 to $99,999",1572708
+California,Income,"$100,000 to $124,999",1407407
+California,Income,"$125,000 to $149,999",1063969
+California,Income,"$150,000 to $199,999",1546127
+California,Income,"$200,000 or more",2894648
+Colorado,Income,"Less than $10,000",105718
+Colorado,Income,"$10,000 to $14,999",57934
+Colorado,Income,"$15,000 to $19,999",54084
+Colorado,Income,"$20,000 to $24,999",60340
+Colorado,Income,"$25,000 to $29,999",58435
+Colorado,Income,"$30,000 to $34,999",62294
+Colorado,Income,"$35,000 to $39,999",55726
+Colorado,Income,"$40,000 to $44,999",69780
+Colorado,Income,"$45,000 to $49,999",67044
+Colorado,Income,"$50,000 to $59,999",137949
+Colorado,Income,"$60,000 to $74,999",225560
+Colorado,Income,"$75,000 to $99,999",318141
+Colorado,Income,"$100,000 to $124,999",264100
+Colorado,Income,"$125,000 to $149,999",207806
+Colorado,Income,"$150,000 to $199,999",292303
+Colorado,Income,"$200,000 or more",442678
+Connecticut,Income,"Less than $10,000",69143
+Connecticut,Income,"$10,000 to $14,999",43663
+Connecticut,Income,"$15,000 to $19,999",34436
+Connecticut,Income,"$20,000 to $24,999",37982
+Connecticut,Income,"$25,000 to $29,999",35155
+Connecticut,Income,"$30,000 to $34,999",37516
+Connecticut,Income,"$35,000 to $39,999",41414
+Connecticut,Income,"$40,000 to $44,999",42950
+Connecticut,Income,"$45,000 to $49,999",38626
+Connecticut,Income,"$50,000 to $59,999",80609
+Connecticut,Income,"$60,000 to $74,999",119721
+Connecticut,Income,"$75,000 to $99,999",170000
+Connecticut,Income,"$100,000 to $124,999",144586
+Connecticut,Income,"$125,000 to $149,999",107870
+Connecticut,Income,"$150,000 to $199,999",168949
+Connecticut,Income,"$200,000 or more",282615
+Delaware,Income,"Less than $10,000",20348
+Delaware,Income,"$10,000 to $14,999",9336
+Delaware,Income,"$15,000 to $19,999",9130
+Delaware,Income,"$20,000 to $24,999",10009
+Delaware,Income,"$25,000 to $29,999",9320
+Delaware,Income,"$30,000 to $34,999",11296
+Delaware,Income,"$35,000 to $39,999",11551
+Delaware,Income,"$40,000 to $44,999",14460
+Delaware,Income,"$45,000 to $49,999",15535
+Delaware,Income,"$50,000 to $59,999",26537
+Delaware,Income,"$60,000 to $74,999",37918
+Delaware,Income,"$75,000 to $99,999",59347
+Delaware,Income,"$100,000 to $124,999",46857
+Delaware,Income,"$125,000 to $149,999",32918
+Delaware,Income,"$150,000 to $199,999",44632
+Delaware,Income,"$200,000 or more",53110
+District of Columbia,Income,"Less than $10,000",25619
+District of Columbia,Income,"$10,000 to $14,999",11427
+District of Columbia,Income,"$15,000 to $19,999",7443
+District of Columbia,Income,"$20,000 to $24,999",11494
+District of Columbia,Income,"$25,000 to $29,999",6833
+District of Columbia,Income,"$30,000 to $34,999",6010
+District of Columbia,Income,"$35,000 to $39,999",5054
+District of Columbia,Income,"$40,000 to $44,999",6567
+District of Columbia,Income,"$45,000 to $49,999",5771
+District of Columbia,Income,"$50,000 to $59,999",11206
+District of Columbia,Income,"$60,000 to $74,999",23556
+District of Columbia,Income,"$75,000 to $99,999",32189
+District of Columbia,Income,"$100,000 to $124,999",29369
+District of Columbia,Income,"$125,000 to $149,999",26024
+District of Columbia,Income,"$150,000 to $199,999",33314
+District of Columbia,Income,"$200,000 or more",87811
+Florida,Income,"Less than $10,000",473368
+Florida,Income,"$10,000 to $14,999",283018
+Florida,Income,"$15,000 to $19,999",255635
+Florida,Income,"$20,000 to $24,999",302056
+Florida,Income,"$25,000 to $29,999",278391
+Florida,Income,"$30,000 to $34,999",334017
+Florida,Income,"$35,000 to $39,999",326660
+Florida,Income,"$40,000 to $44,999",332702
+Florida,Income,"$45,000 to $49,999",308054
+Florida,Income,"$50,000 to $59,999",623171
+Florida,Income,"$60,000 to $74,999",900463
+Florida,Income,"$75,000 to $99,999",1205051
+Florida,Income,"$100,000 to $124,999",965122
+Florida,Income,"$125,000 to $149,999",655217
+Florida,Income,"$150,000 to $199,999",809445
+Florida,Income,"$200,000 or more",1089305
+Georgia,Income,"Less than $10,000",231546
+Georgia,Income,"$10,000 to $14,999",135680
+Georgia,Income,"$15,000 to $19,999",118455
+Georgia,Income,"$20,000 to $24,999",135037
+Georgia,Income,"$25,000 to $29,999",121706
+Georgia,Income,"$30,000 to $34,999",145391
+Georgia,Income,"$35,000 to $39,999",144986
+Georgia,Income,"$40,000 to $44,999",151439
+Georgia,Income,"$45,000 to $49,999",136991
+Georgia,Income,"$50,000 to $59,999",288170
+Georgia,Income,"$60,000 to $74,999",383540
+Georgia,Income,"$75,000 to $99,999",556917
+Georgia,Income,"$100,000 to $124,999",440924
+Georgia,Income,"$125,000 to $149,999",308424
+Georgia,Income,"$150,000 to $199,999",401284
+Georgia,Income,"$200,000 or more",520242
+Hawaii,Income,"Less than $10,000",22135
+Hawaii,Income,"$10,000 to $14,999",13560
+Hawaii,Income,"$15,000 to $19,999",8741
+Hawaii,Income,"$20,000 to $24,999",11566
+Hawaii,Income,"$25,000 to $29,999",9840
+Hawaii,Income,"$30,000 to $34,999",10960
+Hawaii,Income,"$35,000 to $39,999",10740
+Hawaii,Income,"$40,000 to $44,999",14061
+Hawaii,Income,"$45,000 to $49,999",11476
+Hawaii,Income,"$50,000 to $59,999",30883
+Hawaii,Income,"$60,000 to $74,999",43861
+Hawaii,Income,"$75,000 to $99,999",56253
+Hawaii,Income,"$100,000 to $124,999",54862
+Hawaii,Income,"$125,000 to $149,999",44643
+Hawaii,Income,"$150,000 to $199,999",58439
+Hawaii,Income,"$200,000 or more",91131
+Idaho,Income,"Less than $10,000",27976
+Idaho,Income,"$10,000 to $14,999",19569
+Idaho,Income,"$15,000 to $19,999",20956
+Idaho,Income,"$20,000 to $24,999",23170
+Idaho,Income,"$25,000 to $29,999",22858
+Idaho,Income,"$30,000 to $34,999",24652
+Idaho,Income,"$35,000 to $39,999",22993
+Idaho,Income,"$40,000 to $44,999",27562
+Idaho,Income,"$45,000 to $49,999",27571
+Idaho,Income,"$50,000 to $59,999",48839
+Idaho,Income,"$60,000 to $74,999",78606
+Idaho,Income,"$75,000 to $99,999",106013
+Idaho,Income,"$100,000 to $124,999",95447
+Idaho,Income,"$125,000 to $149,999",64761
+Idaho,Income,"$150,000 to $199,999",68850
+Idaho,Income,"$200,000 or more",71358
+Illinois,Income,"Less than $10,000",281653
+Illinois,Income,"$10,000 to $14,999",162907
+Illinois,Income,"$15,000 to $19,999",133385
+Illinois,Income,"$20,000 to $24,999",152324
+Illinois,Income,"$25,000 to $29,999",151378
+Illinois,Income,"$30,000 to $34,999",164567
+Illinois,Income,"$35,000 to $39,999",169229
+Illinois,Income,"$40,000 to $44,999",176815
+Illinois,Income,"$45,000 to $49,999",159892
+Illinois,Income,"$50,000 to $59,999",300512
+Illinois,Income,"$60,000 to $74,999",453534
+Illinois,Income,"$75,000 to $99,999",639584
+Illinois,Income,"$100,000 to $124,999",540170
+Illinois,Income,"$125,000 to $149,999",387057
+Illinois,Income,"$150,000 to $199,999",514343
+Illinois,Income,"$200,000 or more",718098
+Indiana,Income,"Less than $10,000",134481
+Indiana,Income,"$10,000 to $14,999",90846
+Indiana,Income,"$15,000 to $19,999",90613
+Indiana,Income,"$20,000 to $24,999",91479
+Indiana,Income,"$25,000 to $29,999",95173
+Indiana,Income,"$30,000 to $34,999",114910
+Indiana,Income,"$35,000 to $39,999",106170
+Indiana,Income,"$40,000 to $44,999",115949
+Indiana,Income,"$45,000 to $49,999",103771
+Indiana,Income,"$50,000 to $59,999",207857
+Indiana,Income,"$60,000 to $74,999",290533
+Indiana,Income,"$75,000 to $99,999",384224
+Indiana,Income,"$100,000 to $124,999",291581
+Indiana,Income,"$125,000 to $149,999",187777
+Indiana,Income,"$150,000 to $199,999",234677
+Indiana,Income,"$200,000 or more",235596
+Iowa,Income,"Less than $10,000",54185
+Iowa,Income,"$10,000 to $14,999",42024
+Iowa,Income,"$15,000 to $19,999",39538
+Iowa,Income,"$20,000 to $24,999",46330
+Iowa,Income,"$25,000 to $29,999",50173
+Iowa,Income,"$30,000 to $34,999",47626
+Iowa,Income,"$35,000 to $39,999",52410
+Iowa,Income,"$40,000 to $44,999",51917
+Iowa,Income,"$45,000 to $49,999",49156
+Iowa,Income,"$50,000 to $59,999",97796
+Iowa,Income,"$60,000 to $74,999",136063
+Iowa,Income,"$75,000 to $99,999",191448
+Iowa,Income,"$100,000 to $124,999",153068
+Iowa,Income,"$125,000 to $149,999",106196
+Iowa,Income,"$150,000 to $199,999",114222
+Iowa,Income,"$200,000 or more",111270
+Kansas,Income,"Less than $10,000",52214
+Kansas,Income,"$10,000 to $14,999",37742
+Kansas,Income,"$15,000 to $19,999",33177
+Kansas,Income,"$20,000 to $24,999",40013
+Kansas,Income,"$25,000 to $29,999",38545
+Kansas,Income,"$30,000 to $34,999",45554
+Kansas,Income,"$35,000 to $39,999",45131
+Kansas,Income,"$40,000 to $44,999",45748
+Kansas,Income,"$45,000 to $49,999",43972
+Kansas,Income,"$50,000 to $59,999",88970
+Kansas,Income,"$60,000 to $74,999",126440
+Kansas,Income,"$75,000 to $99,999",168680
+Kansas,Income,"$100,000 to $124,999",123285
+Kansas,Income,"$125,000 to $149,999",87264
+Kansas,Income,"$150,000 to $199,999",107438
+Kansas,Income,"$200,000 or more",120201
+Kentucky,Income,"Less than $10,000",117510
+Kentucky,Income,"$10,000 to $14,999",92549
+Kentucky,Income,"$15,000 to $19,999",73152
+Kentucky,Income,"$20,000 to $24,999",82017
+Kentucky,Income,"$25,000 to $29,999",67991
+Kentucky,Income,"$30,000 to $34,999",81039
+Kentucky,Income,"$35,000 to $39,999",70674
+Kentucky,Income,"$40,000 to $44,999",72173
+Kentucky,Income,"$45,000 to $49,999",70949
+Kentucky,Income,"$50,000 to $59,999",138537
+Kentucky,Income,"$60,000 to $74,999",190428
+Kentucky,Income,"$75,000 to $99,999",232114
+Kentucky,Income,"$100,000 to $124,999",183467
+Kentucky,Income,"$125,000 to $149,999",116850
+Kentucky,Income,"$150,000 to $199,999",136513
+Kentucky,Income,"$200,000 or more",139493
+Louisiana,Income,"Less than $10,000",138049
+Louisiana,Income,"$10,000 to $14,999",99941
+Louisiana,Income,"$15,000 to $19,999",79334
+Louisiana,Income,"$20,000 to $24,999",92960
+Louisiana,Income,"$25,000 to $29,999",73687
+Louisiana,Income,"$30,000 to $34,999",75310
+Louisiana,Income,"$35,000 to $39,999",76556
+Louisiana,Income,"$40,000 to $44,999",72099
+Louisiana,Income,"$45,000 to $49,999",65219
+Louisiana,Income,"$50,000 to $59,999",136583
+Louisiana,Income,"$60,000 to $74,999",169018
+Louisiana,Income,"$75,000 to $99,999",211630
+Louisiana,Income,"$100,000 to $124,999",167823
+Louisiana,Income,"$125,000 to $149,999",112459
+Louisiana,Income,"$150,000 to $199,999",130809
+Louisiana,Income,"$200,000 or more",147488
+Maine,Income,"Less than $10,000",24519
+Maine,Income,"$10,000 to $14,999",23374
+Maine,Income,"$15,000 to $19,999",20342
+Maine,Income,"$20,000 to $24,999",21256
+Maine,Income,"$25,000 to $29,999",20758
+Maine,Income,"$30,000 to $34,999",20478
+Maine,Income,"$35,000 to $39,999",22005
+Maine,Income,"$40,000 to $44,999",22305
+Maine,Income,"$45,000 to $49,999",21559
+Maine,Income,"$50,000 to $59,999",44447
+Maine,Income,"$60,000 to $74,999",61103
+Maine,Income,"$75,000 to $99,999",80263
+Maine,Income,"$100,000 to $124,999",64422
+Maine,Income,"$125,000 to $149,999",47031
+Maine,Income,"$150,000 to $199,999",57701
+Maine,Income,"$200,000 or more",63672
+Maryland,Income,"Less than $10,000",113527
+Maryland,Income,"$10,000 to $14,999",56284
+Maryland,Income,"$15,000 to $19,999",46019
+Maryland,Income,"$20,000 to $24,999",56619
+Maryland,Income,"$25,000 to $29,999",56228
+Maryland,Income,"$30,000 to $34,999",56466
+Maryland,Income,"$35,000 to $39,999",57041
+Maryland,Income,"$40,000 to $44,999",64291
+Maryland,Income,"$45,000 to $49,999",63781
+Maryland,Income,"$50,000 to $59,999",121043
+Maryland,Income,"$60,000 to $74,999",189245
+Maryland,Income,"$75,000 to $99,999",277612
+Maryland,Income,"$100,000 to $124,999",253708
+Maryland,Income,"$125,000 to $149,999",189269
+Maryland,Income,"$150,000 to $199,999",299725
+Maryland,Income,"$200,000 or more",500536
+Massachusetts,Income,"Less than $10,000",135118
+Massachusetts,Income,"$10,000 to $14,999",85289
+Massachusetts,Income,"$15,000 to $19,999",69741
+Massachusetts,Income,"$20,000 to $24,999",68959
+Massachusetts,Income,"$25,000 to $29,999",63713
+Massachusetts,Income,"$30,000 to $34,999",71751
+Massachusetts,Income,"$35,000 to $39,999",71118
+Massachusetts,Income,"$40,000 to $44,999",74282
+Massachusetts,Income,"$45,000 to $49,999",65652
+Massachusetts,Income,"$50,000 to $59,999",131990
+Massachusetts,Income,"$60,000 to $74,999",210031
+Massachusetts,Income,"$75,000 to $99,999",300648
+Massachusetts,Income,"$100,000 to $124,999",283096
+Massachusetts,Income,"$125,000 to $149,999",227449
+Massachusetts,Income,"$150,000 to $199,999",334249
+Massachusetts,Income,"$200,000 or more",636718
+Michigan,Income,"Less than $10,000",233459
+Michigan,Income,"$10,000 to $14,999",143363
+Michigan,Income,"$15,000 to $19,999",127734
+Michigan,Income,"$20,000 to $24,999",146620
+Michigan,Income,"$25,000 to $29,999",141089
+Michigan,Income,"$30,000 to $34,999",161806
+Michigan,Income,"$35,000 to $39,999",153404
+Michigan,Income,"$40,000 to $44,999",153365
+Michigan,Income,"$45,000 to $49,999",149116
+Michigan,Income,"$50,000 to $59,999",307069
+Michigan,Income,"$60,000 to $74,999",407155
+Michigan,Income,"$75,000 to $99,999",537972
+Michigan,Income,"$100,000 to $124,999",430104
+Michigan,Income,"$125,000 to $149,999",298988
+Michigan,Income,"$150,000 to $199,999",351110
+Michigan,Income,"$200,000 or more",388927
+Minnesota,Income,"Less than $10,000",104208
+Minnesota,Income,"$10,000 to $14,999",62205
+Minnesota,Income,"$15,000 to $19,999",55200
+Minnesota,Income,"$20,000 to $24,999",63444
+Minnesota,Income,"$25,000 to $29,999",62210
+Minnesota,Income,"$30,000 to $34,999",67371
+Minnesota,Income,"$35,000 to $39,999",66973
+Minnesota,Income,"$40,000 to $44,999",78695
+Minnesota,Income,"$45,000 to $49,999",70462
+Minnesota,Income,"$50,000 to $59,999",159480
+Minnesota,Income,"$60,000 to $74,999",222542
+Minnesota,Income,"$75,000 to $99,999",308923
+Minnesota,Income,"$100,000 to $124,999",271290
+Minnesota,Income,"$125,000 to $149,999",192495
+Minnesota,Income,"$150,000 to $199,999",251774
+Minnesota,Income,"$200,000 or more",326170
+Mississippi,Income,"Less than $10,000",83472
+Mississippi,Income,"$10,000 to $14,999",63681
+Mississippi,Income,"$15,000 to $19,999",50159
+Mississippi,Income,"$20,000 to $24,999",57424
+Mississippi,Income,"$25,000 to $29,999",56151
+Mississippi,Income,"$30,000 to $34,999",53805
+Mississippi,Income,"$35,000 to $39,999",48010
+Mississippi,Income,"$40,000 to $44,999",50009
+Mississippi,Income,"$45,000 to $49,999",49260
+Mississippi,Income,"$50,000 to $59,999",81926
+Mississippi,Income,"$60,000 to $74,999",110307
+Mississippi,Income,"$75,000 to $99,999",142090
+Mississippi,Income,"$100,000 to $124,999",115205
+Mississippi,Income,"$125,000 to $149,999",68674
+Mississippi,Income,"$150,000 to $199,999",76303
+Mississippi,Income,"$200,000 or more",70214
+Missouri,Income,"Less than $10,000",133085
+Missouri,Income,"$10,000 to $14,999",89951
+Missouri,Income,"$15,000 to $19,999",80069
+Missouri,Income,"$20,000 to $24,999",95599
+Missouri,Income,"$25,000 to $29,999",94455
+Missouri,Income,"$30,000 to $34,999",98582
+Missouri,Income,"$35,000 to $39,999",95959
+Missouri,Income,"$40,000 to $44,999",108959
+Missouri,Income,"$45,000 to $49,999",86751
+Missouri,Income,"$50,000 to $59,999",190542
+Missouri,Income,"$60,000 to $74,999",259349
+Missouri,Income,"$75,000 to $99,999",348182
+Missouri,Income,"$100,000 to $124,999",259546
+Missouri,Income,"$125,000 to $149,999",177869
+Missouri,Income,"$150,000 to $199,999",210313
+Missouri,Income,"$200,000 or more",234033
+Montana,Income,"Less than $10,000",17748
+Montana,Income,"$10,000 to $14,999",17299
+Montana,Income,"$15,000 to $19,999",12594
+Montana,Income,"$20,000 to $24,999",18174
+Montana,Income,"$25,000 to $29,999",15173
+Montana,Income,"$30,000 to $34,999",16400
+Montana,Income,"$35,000 to $39,999",19832
+Montana,Income,"$40,000 to $44,999",17808
+Montana,Income,"$45,000 to $49,999",14862
+Montana,Income,"$50,000 to $59,999",34799
+Montana,Income,"$60,000 to $74,999",48748
+Montana,Income,"$75,000 to $99,999",63678
+Montana,Income,"$100,000 to $124,999",50927
+Montana,Income,"$125,000 to $149,999",36876
+Montana,Income,"$150,000 to $199,999",40517
+Montana,Income,"$200,000 or more",43546
+Nebraska,Income,"Less than $10,000",35439
+Nebraska,Income,"$10,000 to $14,999",24943
+Nebraska,Income,"$15,000 to $19,999",24314
+Nebraska,Income,"$20,000 to $24,999",27843
+Nebraska,Income,"$25,000 to $29,999",27955
+Nebraska,Income,"$30,000 to $34,999",27427
+Nebraska,Income,"$35,000 to $39,999",30668
+Nebraska,Income,"$40,000 to $44,999",33217
+Nebraska,Income,"$45,000 to $49,999",29326
+Nebraska,Income,"$50,000 to $59,999",61732
+Nebraska,Income,"$60,000 to $74,999",81725
+Nebraska,Income,"$75,000 to $99,999",109505
+Nebraska,Income,"$100,000 to $124,999",92825
+Nebraska,Income,"$125,000 to $149,999",64547
+Nebraska,Income,"$150,000 to $199,999",79109
+Nebraska,Income,"$200,000 or more",73437
+Nevada,Income,"Less than $10,000",65456
+Nevada,Income,"$10,000 to $14,999",29451
+Nevada,Income,"$15,000 to $19,999",32743
+Nevada,Income,"$20,000 to $24,999",35201
+Nevada,Income,"$25,000 to $29,999",35514
+Nevada,Income,"$30,000 to $34,999",46505
+Nevada,Income,"$35,000 to $39,999",40687
+Nevada,Income,"$40,000 to $44,999",45801
+Nevada,Income,"$45,000 to $49,999",40983
+Nevada,Income,"$50,000 to $59,999",77457
+Nevada,Income,"$60,000 to $74,999",124351
+Nevada,Income,"$75,000 to $99,999",165826
+Nevada,Income,"$100,000 to $124,999",138496
+Nevada,Income,"$125,000 to $149,999",94910
+Nevada,Income,"$150,000 to $199,999",122682
+Nevada,Income,"$200,000 or more",142862
+New Hampshire,Income,"Less than $10,000",23195
+New Hampshire,Income,"$10,000 to $14,999",11251
+New Hampshire,Income,"$15,000 to $19,999",11699
+New Hampshire,Income,"$20,000 to $24,999",16247
+New Hampshire,Income,"$25,000 to $29,999",12912
+New Hampshire,Income,"$30,000 to $34,999",17144
+New Hampshire,Income,"$35,000 to $39,999",15928
+New Hampshire,Income,"$40,000 to $44,999",15207
+New Hampshire,Income,"$45,000 to $49,999",12901
+New Hampshire,Income,"$50,000 to $59,999",32800
+New Hampshire,Income,"$60,000 to $74,999",50033
+New Hampshire,Income,"$75,000 to $99,999",66571
+New Hampshire,Income,"$100,000 to $124,999",63240
+New Hampshire,Income,"$125,000 to $149,999",51230
+New Hampshire,Income,"$150,000 to $199,999",73303
+New Hampshire,Income,"$200,000 or more",97028
+New Jersey,Income,"Less than $10,000",153771
+New Jersey,Income,"$10,000 to $14,999",84332
+New Jersey,Income,"$15,000 to $19,999",68864
+New Jersey,Income,"$20,000 to $24,999",86074
+New Jersey,Income,"$25,000 to $29,999",79561
+New Jersey,Income,"$30,000 to $34,999",89036
+New Jersey,Income,"$35,000 to $39,999",83064
+New Jersey,Income,"$40,000 to $44,999",92432
+New Jersey,Income,"$45,000 to $49,999",90920
+New Jersey,Income,"$50,000 to $59,999",177164
+New Jersey,Income,"$60,000 to $74,999",281931
+New Jersey,Income,"$75,000 to $99,999",404809
+New Jersey,Income,"$100,000 to $124,999",365374
+New Jersey,Income,"$125,000 to $149,999",292142
+New Jersey,Income,"$150,000 to $199,999",423318
+New Jersey,Income,"$200,000 or more",771152
+New Mexico,Income,"Less than $10,000",57182
+New Mexico,Income,"$10,000 to $14,999",38078
+New Mexico,Income,"$15,000 to $19,999",32155
+New Mexico,Income,"$20,000 to $24,999",35836
+New Mexico,Income,"$25,000 to $29,999",29901
+New Mexico,Income,"$30,000 to $34,999",38526
+New Mexico,Income,"$35,000 to $39,999",29054
+New Mexico,Income,"$40,000 to $44,999",29906
+New Mexico,Income,"$45,000 to $49,999",30330
+New Mexico,Income,"$50,000 to $59,999",62054
+New Mexico,Income,"$60,000 to $74,999",80552
+New Mexico,Income,"$75,000 to $99,999",107393
+New Mexico,Income,"$100,000 to $124,999",87124
+New Mexico,Income,"$125,000 to $149,999",56031
+New Mexico,Income,"$150,000 to $199,999",66891
+New Mexico,Income,"$200,000 or more",75957
+New York,Income,"Less than $10,000",482084
+New York,Income,"$10,000 to $14,999",298631
+New York,Income,"$15,000 to $19,999",230919
+New York,Income,"$20,000 to $24,999",256217
+New York,Income,"$25,000 to $29,999",215831
+New York,Income,"$30,000 to $34,999",240991
+New York,Income,"$35,000 to $39,999",217616
+New York,Income,"$40,000 to $44,999",247077
+New York,Income,"$45,000 to $49,999",222061
+New York,Income,"$50,000 to $59,999",450699
+New York,Income,"$60,000 to $74,999",626871
+New York,Income,"$75,000 to $99,999",901540
+New York,Income,"$100,000 to $124,999",752828
+New York,Income,"$125,000 to $149,999",554489
+New York,Income,"$150,000 to $199,999",773418
+New York,Income,"$200,000 or more",1356802
+North Carolina,Income,"Less than $10,000",233418
+North Carolina,Income,"$10,000 to $14,999",159116
+North Carolina,Income,"$15,000 to $19,999",137175
+North Carolina,Income,"$20,000 to $24,999",159863
+North Carolina,Income,"$25,000 to $29,999",156162
+North Carolina,Income,"$30,000 to $34,999",160685
+North Carolina,Income,"$35,000 to $39,999",158087
+North Carolina,Income,"$40,000 to $44,999",178246
+North Carolina,Income,"$45,000 to $49,999",161118
+North Carolina,Income,"$50,000 to $59,999",329596
+North Carolina,Income,"$60,000 to $74,999",438529
+North Carolina,Income,"$75,000 to $99,999",580808
+North Carolina,Income,"$100,000 to $124,999",453831
+North Carolina,Income,"$125,000 to $149,999",312088
+North Carolina,Income,"$150,000 to $199,999",378975
+North Carolina,Income,"$200,000 or more",498662
+North Dakota,Income,"Less than $10,000",17568
+North Dakota,Income,"$10,000 to $14,999",10120
+North Dakota,Income,"$15,000 to $19,999",9481
+North Dakota,Income,"$20,000 to $24,999",9784
+North Dakota,Income,"$25,000 to $29,999",12004
+North Dakota,Income,"$30,000 to $34,999",11841
+North Dakota,Income,"$35,000 to $39,999",11309
+North Dakota,Income,"$40,000 to $44,999",13699
+North Dakota,Income,"$45,000 to $49,999",14448
+North Dakota,Income,"$50,000 to $59,999",23885
+North Dakota,Income,"$60,000 to $74,999",33623
+North Dakota,Income,"$75,000 to $99,999",48921
+North Dakota,Income,"$100,000 to $124,999",37850
+North Dakota,Income,"$125,000 to $149,999",30319
+North Dakota,Income,"$150,000 to $199,999",29556
+North Dakota,Income,"$200,000 or more",35297
+Ohio,Income,"Less than $10,000",266085
+Ohio,Income,"$10,000 to $14,999",181310
+Ohio,Income,"$15,000 to $19,999",147004
+Ohio,Income,"$20,000 to $24,999",180506
+Ohio,Income,"$25,000 to $29,999",173617
+Ohio,Income,"$30,000 to $34,999",188459
+Ohio,Income,"$35,000 to $39,999",178238
+Ohio,Income,"$40,000 to $44,999",208172
+Ohio,Income,"$45,000 to $49,999",166780
+Ohio,Income,"$50,000 to $59,999",354500
+Ohio,Income,"$60,000 to $74,999",495058
+Ohio,Income,"$75,000 to $99,999",652185
+Ohio,Income,"$100,000 to $124,999",514532
+Ohio,Income,"$125,000 to $149,999",346668
+Ohio,Income,"$150,000 to $199,999",423560
+Ohio,Income,"$200,000 or more",452648
+Oklahoma,Income,"Less than $10,000",98805
+Oklahoma,Income,"$10,000 to $14,999",64147
+Oklahoma,Income,"$15,000 to $19,999",55812
+Oklahoma,Income,"$20,000 to $24,999",64483
+Oklahoma,Income,"$25,000 to $29,999",60039
+Oklahoma,Income,"$30,000 to $34,999",66097
+Oklahoma,Income,"$35,000 to $39,999",63314
+Oklahoma,Income,"$40,000 to $44,999",69142
+Oklahoma,Income,"$45,000 to $49,999",60682
+Oklahoma,Income,"$50,000 to $59,999",126528
+Oklahoma,Income,"$60,000 to $74,999",166987
+Oklahoma,Income,"$75,000 to $99,999",209476
+Oklahoma,Income,"$100,000 to $124,999",158407
+Oklahoma,Income,"$125,000 to $149,999",105797
+Oklahoma,Income,"$150,000 to $199,999",115219
+Oklahoma,Income,"$200,000 or more",118813
+Oregon,Income,"Less than $10,000",85179
+Oregon,Income,"$10,000 to $14,999",53752
+Oregon,Income,"$15,000 to $19,999",47513
+Oregon,Income,"$20,000 to $24,999",55462
+Oregon,Income,"$25,000 to $29,999",49916
+Oregon,Income,"$30,000 to $34,999",58872
+Oregon,Income,"$35,000 to $39,999",53903
+Oregon,Income,"$40,000 to $44,999",56303
+Oregon,Income,"$45,000 to $49,999",56302
+Oregon,Income,"$50,000 to $59,999",106184
+Oregon,Income,"$60,000 to $74,999",151117
+Oregon,Income,"$75,000 to $99,999",232475
+Oregon,Income,"$100,000 to $124,999",193643
+Oregon,Income,"$125,000 to $149,999",140416
+Oregon,Income,"$150,000 to $199,999",183358
+Oregon,Income,"$200,000 or more",219875
+Pennsylvania,Income,"Less than $10,000",270326
+Pennsylvania,Income,"$10,000 to $14,999",184982
+Pennsylvania,Income,"$15,000 to $19,999",152311
+Pennsylvania,Income,"$20,000 to $24,999",191670
+Pennsylvania,Income,"$25,000 to $29,999",174105
+Pennsylvania,Income,"$30,000 to $34,999",188278
+Pennsylvania,Income,"$35,000 to $39,999",187300
+Pennsylvania,Income,"$40,000 to $44,999",199717
+Pennsylvania,Income,"$45,000 to $49,999",183220
+Pennsylvania,Income,"$50,000 to $59,999",357607
+Pennsylvania,Income,"$60,000 to $74,999",506948
+Pennsylvania,Income,"$75,000 to $99,999",680810
+Pennsylvania,Income,"$100,000 to $124,999",551286
+Pennsylvania,Income,"$125,000 to $149,999",394596
+Pennsylvania,Income,"$150,000 to $199,999",499219
+Pennsylvania,Income,"$200,000 or more",639349
+Rhode Island,Income,"Less than $10,000",23352
+Rhode Island,Income,"$10,000 to $14,999",17572
+Rhode Island,Income,"$15,000 to $19,999",14552
+Rhode Island,Income,"$20,000 to $24,999",13900
+Rhode Island,Income,"$25,000 to $29,999",13075
+Rhode Island,Income,"$30,000 to $34,999",13346
+Rhode Island,Income,"$35,000 to $39,999",10253
+Rhode Island,Income,"$40,000 to $44,999",15540
+Rhode Island,Income,"$45,000 to $49,999",11665
+Rhode Island,Income,"$50,000 to $59,999",28633
+Rhode Island,Income,"$60,000 to $74,999",41010
+Rhode Island,Income,"$75,000 to $99,999",55353
+Rhode Island,Income,"$100,000 to $124,999",44128
+Rhode Island,Income,"$125,000 to $149,999",32473
+Rhode Island,Income,"$150,000 to $199,999",48027
+Rhode Island,Income,"$200,000 or more",65439
+South Carolina,Income,"Less than $10,000",130320
+South Carolina,Income,"$10,000 to $14,999",80440
+South Carolina,Income,"$15,000 to $19,999",65183
+South Carolina,Income,"$20,000 to $24,999",82486
+South Carolina,Income,"$25,000 to $29,999",75607
+South Carolina,Income,"$30,000 to $34,999",83009
+South Carolina,Income,"$35,000 to $39,999",81567
+South Carolina,Income,"$40,000 to $44,999",85342
+South Carolina,Income,"$45,000 to $49,999",80750
+South Carolina,Income,"$50,000 to $59,999",159866
+South Carolina,Income,"$60,000 to $74,999",218599
+South Carolina,Income,"$75,000 to $99,999",300320
+South Carolina,Income,"$100,000 to $124,999",220326
+South Carolina,Income,"$125,000 to $149,999",154722
+South Carolina,Income,"$150,000 to $199,999",193613
+South Carolina,Income,"$200,000 or more",210740
+South Dakota,Income,"Less than $10,000",17935
+South Dakota,Income,"$10,000 to $14,999",10475
+South Dakota,Income,"$15,000 to $19,999",10578
+South Dakota,Income,"$20,000 to $24,999",11424
+South Dakota,Income,"$25,000 to $29,999",11212
+South Dakota,Income,"$30,000 to $34,999",12601
+South Dakota,Income,"$35,000 to $39,999",11422
+South Dakota,Income,"$40,000 to $44,999",17296
+South Dakota,Income,"$45,000 to $49,999",13718
+South Dakota,Income,"$50,000 to $59,999",29410
+South Dakota,Income,"$60,000 to $74,999",40743
+South Dakota,Income,"$75,000 to $99,999",55098
+South Dakota,Income,"$100,000 to $124,999",43855
+South Dakota,Income,"$125,000 to $149,999",30624
+South Dakota,Income,"$150,000 to $199,999",32535
+South Dakota,Income,"$200,000 or more",33376
+Tennessee,Income,"Less than $10,000",148247
+Tennessee,Income,"$10,000 to $14,999",110332
+Tennessee,Income,"$15,000 to $19,999",94811
+Tennessee,Income,"$20,000 to $24,999",114931
+Tennessee,Income,"$25,000 to $29,999",89735
+Tennessee,Income,"$30,000 to $34,999",107205
+Tennessee,Income,"$35,000 to $39,999",112633
+Tennessee,Income,"$40,000 to $44,999",123940
+Tennessee,Income,"$45,000 to $49,999",105132
+Tennessee,Income,"$50,000 to $59,999",211111
+Tennessee,Income,"$60,000 to $74,999",294536
+Tennessee,Income,"$75,000 to $99,999",395500
+Tennessee,Income,"$100,000 to $124,999",306881
+Tennessee,Income,"$125,000 to $149,999",194753
+Tennessee,Income,"$150,000 to $199,999",240098
+Tennessee,Income,"$200,000 or more",278920
+Texas,Income,"Less than $10,000",605149
+Texas,Income,"$10,000 to $14,999",361201
+Texas,Income,"$15,000 to $19,999",310500
+Texas,Income,"$20,000 to $24,999",370682
+Texas,Income,"$25,000 to $29,999",352996
+Texas,Income,"$30,000 to $34,999",402456
+Texas,Income,"$35,000 to $39,999",368091
+Texas,Income,"$40,000 to $44,999",423896
+Texas,Income,"$45,000 to $49,999",357792
+Texas,Income,"$50,000 to $59,999",752681
+Texas,Income,"$60,000 to $74,999",1112445
+Texas,Income,"$75,000 to $99,999",1448602
+Texas,Income,"$100,000 to $124,999",1155779
+Texas,Income,"$125,000 to $149,999",825478
+Texas,Income,"$150,000 to $199,999",1090177
+Texas,Income,"$200,000 or more",1511844
+Utah,Income,"Less than $10,000",37870
+Utah,Income,"$10,000 to $14,999",22774
+Utah,Income,"$15,000 to $19,999",20004
+Utah,Income,"$20,000 to $24,999",24283
+Utah,Income,"$25,000 to $29,999",23495
+Utah,Income,"$30,000 to $34,999",30819
+Utah,Income,"$35,000 to $39,999",32076
+Utah,Income,"$40,000 to $44,999",35752
+Utah,Income,"$45,000 to $49,999",35237
+Utah,Income,"$50,000 to $59,999",66351
+Utah,Income,"$60,000 to $74,999",112770
+Utah,Income,"$75,000 to $99,999",171140
+Utah,Income,"$100,000 to $124,999",148844
+Utah,Income,"$125,000 to $149,999",113049
+Utah,Income,"$150,000 to $199,999",139501
+Utah,Income,"$200,000 or more",170463
+Vermont,Income,"Less than $10,000",10662
+Vermont,Income,"$10,000 to $14,999",7753
+Vermont,Income,"$15,000 to $19,999",8710
+Vermont,Income,"$20,000 to $24,999",8662
+Vermont,Income,"$25,000 to $29,999",10008
+Vermont,Income,"$30,000 to $34,999",9357
+Vermont,Income,"$35,000 to $39,999",9901
+Vermont,Income,"$40,000 to $44,999",8581
+Vermont,Income,"$45,000 to $49,999",9226
+Vermont,Income,"$50,000 to $59,999",18975
+Vermont,Income,"$60,000 to $74,999",28316
+Vermont,Income,"$75,000 to $99,999",39043
+Vermont,Income,"$100,000 to $124,999",33128
+Vermont,Income,"$125,000 to $149,999",21461
+Vermont,Income,"$150,000 to $199,999",29884
+Vermont,Income,"$200,000 or more",31881
+Virginia,Income,"Less than $10,000",149488
+Virginia,Income,"$10,000 to $14,999",92236
+Virginia,Income,"$15,000 to $19,999",81834
+Virginia,Income,"$20,000 to $24,999",93995
+Virginia,Income,"$25,000 to $29,999",87465
+Virginia,Income,"$30,000 to $34,999",97506
+Virginia,Income,"$35,000 to $39,999",88908
+Virginia,Income,"$40,000 to $44,999",112389
+Virginia,Income,"$45,000 to $49,999",106655
+Virginia,Income,"$50,000 to $59,999",205807
+Virginia,Income,"$60,000 to $74,999",301867
+Virginia,Income,"$75,000 to $99,999",422562
+Virginia,Income,"$100,000 to $124,999",358195
+Virginia,Income,"$125,000 to $149,999",261747
+Virginia,Income,"$150,000 to $199,999",384460
+Virginia,Income,"$200,000 or more",604193
+Washington,Income,"Less than $10,000",137847
+Washington,Income,"$10,000 to $14,999",75247
+Washington,Income,"$15,000 to $19,999",65024
+Washington,Income,"$20,000 to $24,999",74379
+Washington,Income,"$25,000 to $29,999",73109
+Washington,Income,"$30,000 to $34,999",75428
+Washington,Income,"$35,000 to $39,999",78454
+Washington,Income,"$40,000 to $44,999",88347
+Washington,Income,"$45,000 to $49,999",89676
+Washington,Income,"$50,000 to $59,999",178349
+Washington,Income,"$60,000 to $74,999",261604
+Washington,Income,"$75,000 to $99,999",394127
+Washington,Income,"$100,000 to $124,999",356566
+Washington,Income,"$125,000 to $149,999",249198
+Washington,Income,"$150,000 to $199,999",358622
+Washington,Income,"$200,000 or more",612103
+West Virginia,Income,"Less than $10,000",47999
+West Virginia,Income,"$10,000 to $14,999",37231
+West Virginia,Income,"$15,000 to $19,999",33847
+West Virginia,Income,"$20,000 to $24,999",36019
+West Virginia,Income,"$25,000 to $29,999",34810
+West Virginia,Income,"$30,000 to $34,999",33783
+West Virginia,Income,"$35,000 to $39,999",30541
+West Virginia,Income,"$40,000 to $44,999",29626
+West Virginia,Income,"$45,000 to $49,999",26668
+West Virginia,Income,"$50,000 to $59,999",54647
+West Virginia,Income,"$60,000 to $74,999",72506
+West Virginia,Income,"$75,000 to $99,999",98105
+West Virginia,Income,"$100,000 to $124,999",69710
+West Virginia,Income,"$125,000 to $149,999",44755
+West Virginia,Income,"$150,000 to $199,999",47012
+West Virginia,Income,"$200,000 or more",43581
+Wisconsin,Income,"Less than $10,000",110181
+Wisconsin,Income,"$10,000 to $14,999",76001
+Wisconsin,Income,"$15,000 to $19,999",68409
+Wisconsin,Income,"$20,000 to $24,999",83176
+Wisconsin,Income,"$25,000 to $29,999",73502
+Wisconsin,Income,"$30,000 to $34,999",92193
+Wisconsin,Income,"$35,000 to $39,999",84605
+Wisconsin,Income,"$40,000 to $44,999",101039
+Wisconsin,Income,"$45,000 to $49,999",98703
+Wisconsin,Income,"$50,000 to $59,999",184439
+Wisconsin,Income,"$60,000 to $74,999",253043
+Wisconsin,Income,"$75,000 to $99,999",350739
+Wisconsin,Income,"$100,000 to $124,999",289087
+Wisconsin,Income,"$125,000 to $149,999",203445
+Wisconsin,Income,"$150,000 to $199,999",227254
+Wisconsin,Income,"$200,000 or more",239382
+Wyoming,Income,"Less than $10,000",13192
+Wyoming,Income,"$10,000 to $14,999",5640
+Wyoming,Income,"$15,000 to $19,999",8200
+Wyoming,Income,"$20,000 to $24,999",8399
+Wyoming,Income,"$25,000 to $29,999",11830
+Wyoming,Income,"$30,000 to $34,999",8700
+Wyoming,Income,"$35,000 to $39,999",9330
+Wyoming,Income,"$40,000 to $44,999",9201
+Wyoming,Income,"$45,000 to $49,999",8125
+Wyoming,Income,"$50,000 to $59,999",18121
+Wyoming,Income,"$60,000 to $74,999",26470
+Wyoming,Income,"$75,000 to $99,999",34974
+Wyoming,Income,"$100,000 to $124,999",28536
+Wyoming,Income,"$125,000 to $149,999",17794
+Wyoming,Income,"$150,000 to $199,999",26226
+Wyoming,Income,"$200,000 or more",21551
+Puerto Rico,Income,"Less than $10,000",227904
+Puerto Rico,Income,"$10,000 to $14,999",136367
+Puerto Rico,Income,"$15,000 to $19,999",115707
+Puerto Rico,Income,"$20,000 to $24,999",106423
+Puerto Rico,Income,"$25,000 to $29,999",75699
+Puerto Rico,Income,"$30,000 to $34,999",74766
+Puerto Rico,Income,"$35,000 to $39,999",63469
+Puerto Rico,Income,"$40,000 to $44,999",57631
+Puerto Rico,Income,"$45,000 to $49,999",45244
+Puerto Rico,Income,"$50,000 to $59,999",73371
+Puerto Rico,Income,"$60,000 to $74,999",83480
+Puerto Rico,Income,"$75,000 to $99,999",80135
+Puerto Rico,Income,"$100,000 to $124,999",39530
+Puerto Rico,Income,"$125,000 to $149,999",20118
+Puerto Rico,Income,"$150,000 to $199,999",23070
+Puerto Rico,Income,"$200,000 or more",19695
